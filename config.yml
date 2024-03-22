@@ -1,12 +1,12 @@
-title: Symbolically Dynamic
+title: Dynamically Symbolic
 paginate: 5
 theme: PaperMod
-baseURL: "https://symbolically-dynamic.netlify.app/"
+baseURL: "https://dynamically-symbolic.netlify.app/"
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-disqusShortname: symbolically-dynamic-1
+disqusShortname: dynamically-symbolic-1
 googleAnalytics: UA-123-45
 
 minify:
@@ -15,7 +15,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: symbolically-dynamic
+  title: dynamically-symbolic
   description: "blog"
   keywords: [math]
   author: Aviv Ruimi
@@ -55,14 +55,14 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Symbolically Dynamic"
+    text: "Dynamically Symbolic"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: Symbolically Dynamic
+    title: Dynamically Symbolic
     subtitle: "Using symbols to describe things"
     imageUrl: "<img location>"
     imageWidth: 120
@@ -76,7 +76,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Symbolically Dynamic"
+    Title: "Dynamically Symbolic"
     Content: "We are writing symbols here."
     
   analytics:
