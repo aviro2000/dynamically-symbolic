@@ -63,7 +63,7 @@ params:
   profileMode:
     enabled: false # needs to be explicitly set
     title: Symbolically Dynamic
-    subtitle: "e"
+    subtitle: "Using symbols to describe things"
     imageUrl: "<img location>"
     imageWidth: 120
     imageHeight: 120
